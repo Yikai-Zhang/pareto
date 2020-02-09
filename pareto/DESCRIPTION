@@ -1,0 +1,10 @@
+Package: pareto
+Type: Package
+Title: Density function for the Pareto distribution
+Version: 1.0-1
+Date: 2020-02-07
+Author: Yikai Zhang
+Maintainer: Yikai Zhang <yikai-zhang@uiowa.edu>
+Description: First try for R package.
+License: GPL
+NeedsCompilation: no
